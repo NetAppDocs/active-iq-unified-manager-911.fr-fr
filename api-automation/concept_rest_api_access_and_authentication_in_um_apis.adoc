@@ -17,12 +17,9 @@ Exemple de demande et de réponse :
 
 * *Demande*
 +
-OBTENEZ
-
-
-
 [listing]
 ----
+GET
 https://<IP address/hostname>:<port_number>/api/v2/datacenter/cluster/clusters
 ----
 * *Réponse*
@@ -103,7 +100,7 @@ Le port HTTPS par défaut est défini sur 443. Vous pouvez personnaliser le port
 
 
 +
-Pour émettre DES requêtes HTTP POST, PATCH et SUPPRESSION à partir d'un navigateur Web, vous devez utiliser des plugins de navigateur. Vous pouvez également accéder à l'API REST à l'aide de plateformes de script telles que curl et Perl.
+Pour émettre des requêtes HTTP à partir d'un navigateur Web, vous devez utiliser des plug-ins de navigateur d'API REST. Vous pouvez également accéder à l'API REST à l'aide de plateformes de script telles que curl et Perl.
 
 
 
