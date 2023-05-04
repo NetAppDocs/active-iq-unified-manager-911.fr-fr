@@ -8657,9 +8657,6 @@
   <block id="8a89f6664254d9a94578dae683c48cce" category="list-text">Copiez le contenu à partir de<block ref="9a284b8d10072a11cb0d5402d3bdcc42" prefix=" " category="inline-code"></block> retour à la développé<block ref="7e1f8730cbdb33df27f5c6a989e8b48a" prefix=" " category="inline-code"></block> répertoire :</block>
   <block id="fee984743f91b24dec86f77ceb6dd622" category="summary">Vous pouvez utiliser la page Cluster Setup pour afficher l'inventaire de vos clusters. Vous pouvez afficher des détails sur les clusters, tels que leur nom ou leur adresse IP et l'état de la communication.</block>
   <block id="ee45945ca017877dfd40f7584086a95c" category="doc">Afficher la liste des clusters surveillés</block>
-  <block id="9dc7252bbef57ce4f0d03bcddb84711c" category="paragraph">La liste des clusters est triée par la colonne niveau de gravité de l'état de collecte. Vous pouvez cliquer sur un en-tête de colonne pour trier les clusters par différentes colonnes.</block>
-  <block id="45ec896bf3e43c4d453f4fa4f22106ca" category="inline-link-macro">Page sources de données de configuration/cluster</block>
-  <block id="01b124e9964263d377fc183d69afb2ed" category="paragraph"><block ref="01b124e9964263d377fc183d69afb2ed" category="inline-link-macro-rx"></block></block>
   <block id="88c88f6b56a9d98bd33b05c15caf1b59" category="summary">La page règles de génération des adresses e-mail de quota d'utilisateur et de groupe vous permet de créer des règles pour spécifier des adresses e-mail en fonction des quotas d'utilisateur associés aux clusters, SVM, volumes, qtrees, utilisateurs, ou groupes d'utilisateurs. Une notification est envoyée à l'adresse e-mail spécifiée lorsqu'un quota est dépassé.</block>
   <block id="51ec35fdada9b22f0ab61058a1d6b10a" category="doc">Règles de génération de la page adresse e-mail de quota d'utilisateur et de groupe</block>
   <block id="38177b330d524696f6cd3f56f4146279" category="section-title">Domaine règles</block>
@@ -11575,8 +11572,6 @@
   <block id="dfcc398099d6a64026e51ab282e16253" category="sidebar">Ressources supplémentaires</block>
   <block id="aa193eacf5a35a85044e44de3fa9c91a" category="sidebar">Vidéos sur Unified Manager</block>
   <block id="197833bfff97d501603036a0febb7a95" category="sidebar">Blogs Unified Manager</block>
-  <block id="a28def0e6555993fb14b2d945874f854" category="sidebar">Documentation relative à Active IQ Unified Manager 9.10</block>
-  <block id="b4326b5cab8385bbedf7c504d8569004" category="sidebar">Documentation pour les versions antérieures</block>
   <block id="85f73dd16ea214346164b0deea26773b" category="sidebar">Unified Manager</block>
   <block id="09d454f0bf432593d99fbfd84c9f9293" category="sidebar">Réaliser les tâches de configuration et d'administration</block>
   <block id="32d8b1bb1bdc5067bfbde495253b3469" category="sidebar">Contrôlez et gérez l'état du cluster</block>
@@ -11647,4 +11642,7 @@
   <block id="d2136c0320bc784ec5e976cc7c71f93d" category="sidebar">Détails d'état des VM de stockage</block>
   <block id="fbf5dae3b577d533c0b3785c65a5e93f" category="sidebar">Détails de l'état de santé du cluster</block>
   <block id="3a63c6b863ef9b4f54c6281b5910c2f9" category="sidebar">Détails de l'intégrité des agrégats</block>
+  <block id="228689b16f6e524fb9ed06d81f33db6b" category="paragraph"><block ref="7e3bc202e89677c6d62e218685393bf5" prefix="" category="inline-code"></block> Est un programme démon requis pour démarrer et arrêter le serveur MySQL.</block>
+  <block id="13490f69efe6e04b704eff78476a43b8" category="paragraph">Tous les clusters de votre environnement de stockage géré par Unified Manager s'affichent. La liste des clusters est triée par la colonne niveau de gravité de l'état de collecte. Vous pouvez cliquer sur un en-tête de colonne pour trier les clusters par différentes colonnes.</block>
+  <block id="ede607b26fd609858d7be7ff1e138cb0" category="sidebar">Documentation pour Active IQ Unified Manager 9.9 ou version antérieure</block>
 </blocks>

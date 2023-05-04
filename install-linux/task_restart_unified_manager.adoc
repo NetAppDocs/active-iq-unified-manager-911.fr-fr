@@ -40,3 +40,9 @@ Vous devez avoir un accès utilisateur root au serveur Red Hat Enterprise Linux 
 `systemctl start ocieau`
 
 
+
+[NOTE]
+====
+`mysqld` Est un programme démon requis pour démarrer et arrêter le serveur MySQL.
+
+====
